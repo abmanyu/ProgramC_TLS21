@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	char name[30], nasi1[]="Original" ,nasi2[]="Seafood" ,nasi3[]="Pedas" ,nasi4[]="Sosis", roll1[]="Ayam Negeri", roll2[]="Ayam Kampung", mie1[]="Mie Goreng Original",mie2[]="Mie Goreng Pedas",mie3[]="Mie Goreng Seafood";
+	char name[30], nasi1[]="Original" ,nasi2[]="Seafood" ,nasi3[]="Pedas" ,nasi4[]="Sosis", mie1[]="Mie Goreng Original",mie2[]="Mie Goreng Pedas",mie3[]="Mie Goreng Seafood";
 	char cap1[]="Capcay Original", cap2[]="Capcay Spesial", cap3[]="Capcay Super Spesial";
 	char ayam1[]="Ayam Negeri", ayam2[]="Ayam Kampung", gotostart ;
 	int choice=0,pchoice,pchoice1, quantity;// time=40;
